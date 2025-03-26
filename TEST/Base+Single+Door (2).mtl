@@ -1,0 +1,55 @@
+#
+## Alias OBJ Material File
+# Exported from SketchUp, (c) 2000-2012 Trimble Navigation Limited
+
+newmtl Maple_Natural_Vert_Interior
+Ka 0.000000 0.000000 0.000000
+Kd 0.956863 0.819608 0.580392
+Ks 0.330000 0.330000 0.330000
+map_Kd Base+Single+Door (2)/Maple_Natural_Vert_Interior.jpg
+
+newmtl BackColor
+Ka 0.000000 0.000000 0.000000
+Kd 0.670588 0.690196 0.800000
+Ks 0.330000 0.330000 0.330000
+
+newmtl ForegroundColor
+Ka 0.000000 0.000000 0.000000
+Kd 0.000000 0.000000 0.000000
+Ks 0.330000 0.330000 0.330000
+
+newmtl Maple_Honey_Spice_Vert
+Ka 0.000000 0.000000 0.000000
+Kd 0.949020 0.701961 0.501961
+Ks 0.330000 0.330000 0.330000
+map_Kd Base+Single+Door (2)/Maple_Honey_Spice_Vert.jpg
+
+newmtl burnt_logo
+Ka 0.000000 0.000000 0.000000
+Kd 0.133333 0.027451 0.023529
+Ks 0.330000 0.330000 0.330000
+map_Kd Base+Single+Door (2)/burnt_logo.png
+
+newmtl _2
+Ka 0.000000 0.000000 0.000000
+Kd 0.803922 0.800000 0.788235
+Ks 0.330000 0.330000 0.330000
+
+newmtl M_7086_87
+Ka 0.000000 0.000000 0.000000
+Kd 0.780392 0.780392 0.768627
+Ks 0.330000 0.330000 0.330000
+map_Kd Base+Single+Door (2)/M_7086_87.jpg
+
+newmtl Maple_Honey_Spice_Horiz
+Ka 0.000000 0.000000 0.000000
+Kd 0.949020 0.701961 0.501961
+Ks 0.330000 0.330000 0.330000
+map_Kd Base+Single+Door (2)/Maple_Honey_Spice_Horiz.jpg
+
+newmtl burnt_logo1_
+Ka 0.000000 0.000000 0.000000
+Kd 0.501961 0.501961 0.501961
+Ks 0.000000 0.000000 0.000000
+map_Kd Base+Single+Door (2)/burnt_logo1_.png
+
